@@ -4,5 +4,5 @@ Jika masih tidak bisa di run secara normal pada folder terpisah / modular,
 maka mohon jadikan semua file ke dalam satu folder.
 
 Mohon maaf atas salah kata dan kelalaian,
-Terima Kasih atas perhatiannya
+Sekian terima Kasih atas perhatiannya
 - Kelompok 8
